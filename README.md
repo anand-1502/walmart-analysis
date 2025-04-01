@@ -129,5 +129,7 @@ ORDER BY Total_Sales DESC;
 ## 📈 Future Improvements
 
 🔹 Implement Machine Learning: Predict future sales trends using ML models
+
 🔹 Customer Segmentation: Use clustering algorithms to segment customers based on buying behavior
+
 🔹 Automated Reporting: Create scheduled SQL queries & dashboards for real-time insights
