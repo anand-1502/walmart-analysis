@@ -85,6 +85,7 @@ Used Python (matplotlib, seaborn) for additional data visualizations
 ## 📊 Tableau Dashboard
 
 📍 Explore the interactive dashboard here: https://public.tableau.com/app/profile/anand.khanna/viz/walmart_analysis_17434846279930/performancedashboard?publish=yes
+(performance dashboard.png)
 
 Branch & City-Wise Sales Performance
 
